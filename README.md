@@ -1,5 +1,5 @@
 # apirickymorty
-A project to consume Rick & Morty API using VUE.JS and AXIOS
+A project to consume Rick & Morty API (https://rickandmortyapi.com/) using VUE.JS and AXIOS
 ## Project setup
 ```
 npm install
